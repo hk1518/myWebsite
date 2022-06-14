@@ -2,7 +2,6 @@ import * as React from "react";
 import Layout from "../components/layout";
 import { StaticImage } from "gatsby-plugin-image";
 import { useStaticQuery, graphql } from "gatsby";
-import Header from "./header";
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
