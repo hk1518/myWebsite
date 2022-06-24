@@ -34,4 +34,4 @@ const Layout = ({ pageTitle, children, titlePage }) => {
   );
 };
 
-export { Layout };
+export default Layout;
