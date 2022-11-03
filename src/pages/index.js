@@ -1,5 +1,5 @@
 import * as React from "react";
-import Layout from "../Components/layout.js";
+import Layout from "../Components/layout";
 import { StaticImage } from "gatsby-plugin-image";
 import HeroPage from "./hero.js";
 import { useStaticQuery, graphql } from "gatsby";
